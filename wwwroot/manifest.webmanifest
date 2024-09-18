@@ -2,7 +2,7 @@
   "name": "Tools",
   "short_name": "Tools",
   "id": "./",
-  "start_url": "https://kennybeverley.github.oi/APATools",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
